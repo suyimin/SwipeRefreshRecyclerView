@@ -6,5 +6,7 @@
 
 
 运行效果如下图：
+
+
 ![](https://github.com/suyimin/SwipeRefreshRecyclerView/blob/master/RefreshRecyclerView.gif)
 
