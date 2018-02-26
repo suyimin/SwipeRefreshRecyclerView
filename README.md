@@ -6,5 +6,5 @@
 
 
 运行效果如下图：
-![](https://github.com/liangzhitao/SwipeRefreshRecyclerView/blob/master/RefreshRecyclerView.gif)
+![](https://github.com/suyimin/SwipeRefreshRecyclerView/blob/master/RefreshRecyclerView.gif)
 
